@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e61b3bc5-368c-4b88-9903-177ba1a140a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_db2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relevance.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/save_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/exercise_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/exercise_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/exercise_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/ftp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/ftp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stu.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_db2.py" afterDir="false" />
-    </list>
+    <list default="true" id="e61b3bc5-368c-4b88-9903-177ba1a140a5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +15,25 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="5" selection-start-column="5" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -58,6 +52,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mylog.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -117,10 +113,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20440252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Version Control" />
@@ -144,7 +141,21 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="5" selection-start-column="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
